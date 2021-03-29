@@ -1,0 +1,20 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Database
+*.db*
+
+# GreenFlights Resources
+/GreenFlights_Resources/
+
+# POM
+dependency-reduced-pom.xml
